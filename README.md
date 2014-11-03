@@ -7,6 +7,8 @@ signature
 to ensure only athorised shell scripts are executed the email conataining the script must contain the SIGNATUE in the
 email subject line.
 
+setup
+=====
 GMAIL_ADDRESS='elvis@gmail.com'
 GMAIL_PASSWORD='letmein'
 
