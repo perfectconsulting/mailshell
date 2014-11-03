@@ -1,0 +1,4 @@
+mailshell
+=========
+
+Python script 
