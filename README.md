@@ -27,6 +27,9 @@ set a cron job to execute the script at regular intervals (5 minutes)
 then email the sever your commands, thus
 
 subject:elvis has left the buiding
+
 ls -al
+
 du -h
+
 free -m
