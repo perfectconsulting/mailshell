@@ -1,6 +1,6 @@
 mailshell
 =========
-a pythion based utility that scans an email account for shell scripts and executes them, sending the result back to the sender.
+a python based utility that scans an email account for shell scripts and executes them, sending the result back to the sender.
 
 signature
 =========
