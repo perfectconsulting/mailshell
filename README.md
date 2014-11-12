@@ -4,7 +4,7 @@ a python based utility that scans an email account for shell scripts and execute
 
 signature
 =========
-to ensure only athorised shell scripts are executed the email conataining the script must contain the SIGNATUE in the
+to ensure only athorised shell scripts are executed the email containing the script must contain the SIGNATUE in the
 email subject line.
 
 setup
