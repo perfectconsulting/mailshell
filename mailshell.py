@@ -82,8 +82,8 @@ def execute_shell_email(script):
 
 def send_email(from_addr, to_addr_list, cc_addr_list, subject, message,login, password, smtpserver='smtp.gmail.com:587'):
     header  = 'From: %s\n' % from_addr
-    header += 'To: %s\n' % ','.join(to_addr_list)
-    header += 'Cc: %s\n' % ','.join(cc_addr_list)
+    header += 'To: %s\n' % to_addr_list
+    header += 'Cc: %s\n' % cc_addr_list
     header += 'Subject: %s\n\n' % subject
     message = header + message
 
