@@ -2,10 +2,12 @@ mailshell
 =========
 a python based utility that scans an email account for shell scripts and executes them, sending the result back to the sender.
 
-signature
-=========
+signature - VERY INSECURE
+=========================
 to ensure only athorised shell scripts are executed the email containing the script must contain the SIGNATUE in the
-email subject line.
+email subject line. 
+
+THIS IS ONLY INTENDED AS A FAILSAFE WAY OF CONTROLING A REMOVE PI
 
 setup
 =====
