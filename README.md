@@ -7,7 +7,7 @@ signature - VERY INSECURE
 to ensure only athorised shell scripts are executed the email containing the script must contain the SIGNATUE in the
 email subject line. 
 
-THIS IS ONLY INTENDED AS A FAILSAFE WAY OF CONTROLING A REMOVE PI
+THIS IS ONLY INTENDED AS A FAILSAFE WAY OF CONTROLING A REMOTE PI
 
 setup
 =====
